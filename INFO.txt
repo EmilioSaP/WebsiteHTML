@@ -1,0 +1,10 @@
+in a new terminal, type git init to create a new empty empty Git repository
+git add filename  to add to repository
+<h1> heading text <h1>
+<>
+<>
+<>
+<>
+<>
+<>
+<>
